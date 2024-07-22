@@ -1,0 +1,4 @@
+name: Manhunt
+version: '${version}'
+main: me.dunescifye.manhunt.Manhunt
+api-version: '1.21'
